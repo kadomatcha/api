@@ -1,0 +1,22 @@
+[
+  {
+    "tag": "System",
+    "logo": "ri-server-fill",
+    "api": [
+      {
+        "name": "Server Stats",
+        "link": "/stats"
+      }
+    ]
+  },
+  {
+    "tag": "AI Image",
+    "logo": "ri-image-fill",
+    "api": [
+      {
+        "name": "Unrestricted AI",
+        "link": "/api/unress?prompt=example"
+      }
+    ]
+  }
+]
